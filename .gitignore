@@ -1,7 +1,7 @@
 node_modules/
 # ignore generated env files,
-*.env
+.env
 # ignore objects and archives, anywhere in the tree.
-z*.*
+z*
 # Ignores a top-level directory named artifacts
-artifacts
+/artifacts/
